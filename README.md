@@ -25,4 +25,4 @@ Este repositorio contiene una página web sencilla creada como actividad académ
 
 ## Autor
 
-Julian Betancurt
+Julian Betancur
