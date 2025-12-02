@@ -1,6 +1,6 @@
 # Página Web Básica
 
-Este repositorio contiene una página web sencilla creada como actividad académica.
+Este repositorio contiene una página web sencilla creada como actividad académica.😎
 
 ## Características del proyecto
 
